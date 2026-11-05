@@ -1,5 +1,6 @@
 # 👨‍💻 Developer Profile
 
+TODO: Document your project here
 <div align="center">
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&pause=1000&color=9C27B0&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%2F+ML+Specialist;Full-Stack+Developer" alt="Typing SVG" />
